@@ -1,0 +1,47 @@
+{
+    "project_type": "javascript",
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "noCache" : false,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d"],
+
+    "jsList" : [
+        "src/GC.js",
+        "src/resource.js",
+        "src/app.js",
+        "src/data/Library.js",
+        "src/data/DataConver.js",
+        "src/game/GameBaseScene.js",
+        "src/game/welcome/WelcomeScene.js",
+        "src/game/welcome/BackgroundLayer.js",
+        "src/game/welcome/GameTouchLayer.js",
+        "src/game/welcome/AboutMeScene.js",
+        "src/game/play/GamePlayScene.js",
+        "src/game/play/GridBgLayer.js",
+        "src/game/play/GridBg.js",
+        "src/game/play/CandyLayer.js",
+        "src/game/play/Candy.js",
+        "src/game/play/ModelLayerColor.js",
+        "src/game/play/CandyProcessMc.js",
+        "src/game/play/ClipSp.js",
+        "src/game/extra/AudioContror.js",
+        "src/game/extra/MusicSprite.js",
+        "src/game/extra/SoundSprite.js",
+        "src/game/fight/FightData.js",
+        "src/game/fight/PlayerHp.js",
+        "src/game/fight/Boss.js",
+        "src/game/fight/Buff.js",
+        "src/game/fight/Round.js",
+        "src/game/fight/FightController.js",
+        "src/game/fight/FightToast.js",
+        "src/game/msg/Toast.js",
+        "src/game/msg/Msg.js"
+
+
+    ]
+}
