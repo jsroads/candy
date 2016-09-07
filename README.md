@@ -15,3 +15,5 @@ candys  move  dispear
 
 
 对了游戏试玩地址：www.smile361.com
+
+作者保留代码商用的权利，如有商业用途，轻与作者联系，jsroads@163.com。
