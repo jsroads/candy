@@ -334,7 +334,7 @@ DataConver.checkPlayerCombat = function (list) {
                     roundBack.target = FightData.PLAYER;
                     roundBack.attacker = FightData.PLAYER;
                     roundBack.buffType = FightData.BUFF_TYPE_GEN;
-                    roundBack.hurthp -=100;
+                    roundBack.hurthp -=150;
                     break;
             }
         }

@@ -3,17 +3,14 @@ var res = {
     game_system_s_plist : "res/game/system_s.plist",
     game_s_bg_png : "res/game/game_s.png",
     game_s_bg_plist : "res/game/game_s.plist",
-    mm_playmusic_mp3 : "res/sound/sound.WorldSceneBGM.mp3",
+    fight_s_plist : "res/game/fight_s.plist",
+    boss_s_plist : "res/game/boss_s.plist",
     mm_fight_lev_fnt : "res/font/fight_lev.fnt",
     mm_fight_lev_png : "res/font/fight_lev.png",
     mm_fight_number_fnt : "res/font/fight_number.fnt",
     mm_fight_number_png : "res/font/fight_number.png",
-    mm_target_amount_fnt : "res/font/target_amount.fnt",
-    mm_target_amount_png : "res/font/target_amount.png",
     mm_level_seq_upon_entering_fnt : "res/font/level_seq_upon_entering.fnt",
     mm_level_seq_upon_entering_png : "res/font/level_seq_upon_entering.png",
-    mm_score_objectives_fnt : "res/font/score_objectives.fnt",
-    mm_score_objectives_png : "res/font/score_objectives.png",
     mm_playmusic_mp3 : "res/sound/sound.WorldSceneBGM.mp3",
     mm_btneffect : "res/effect/sound.click.common.button.mp3",
     mm_contnuousmatch1 : "res/effect/sound.contnuousMatch.1.mp3",
@@ -29,9 +26,7 @@ var res = {
     mm_jumpout : "res/effect/sound.monster.jumpout.mp3",
     mm_lineline : "res/effect/sound.swap.lineline.mp3",
     mm_coin : "res/effect/sound.reward.coin.mp3",
-    mm_lose : "res/effect/sound.reward.lose.mp3",
-    fight_s_plist : "res/game/fight_s.plist",
-    boss_s_plist : "res/game/boss_s.plist"
+    mm_lose : "res/effect/sound.reward.lose.mp3"
 };
 
 var g_resources = [];

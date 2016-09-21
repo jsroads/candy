@@ -33,6 +33,6 @@ FightData.getPlayerHP = function () {
 };
 
 FightData.getBossHP = function () {
-    FightData.bossMaxHP = FightData.BOSS_HP_BASE+FightData.PLAY_LEVEL*FightData.LEVEL_HURT_LIST[FightData.PLAY_LEVEL]*2;
+    FightData.bossMaxHP = FightData.BOSS_HP_BASE+FightData.PLAY_LEVEL*FightData.LEVEL_HURT_LIST[FightData.PLAY_LEVEL]*.5;
     return FightData.bossMaxHP;
 };
