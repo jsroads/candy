@@ -32,5 +32,14 @@ var AboutMeLayer = cc.Layer.extend({
             scaleY:GC.h/rect.height
         });
         this.addChild(this.gameBg);
+
+
+        //文本
+        this.label = new cc.LabelTTF("2016-9-21 16:20 版本",'Arial', 25, cc.size(320,32),cc.TEXT_ALIGNMENT_CENTER);
+        this.label.x = GC.w-180;
+        this.label.y = GC.h-35;
+        this.label.setFontFillColor(cc.color(255,255,255,255));
+        this.label.enableStroke(cc.color(0,0,0,255),2);
+        this.addChild(this.label);
     }
 });
