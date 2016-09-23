@@ -35,10 +35,15 @@ candys  move  dispear
 4.路径只要大于1，就开始计算伤害，有同学问我，我和周围的糖果换了之后，换回来了，为啥对方打我了，这个是计算的规则，当然你可以修改源码，验证一下，想怎么设计，自己动手吧！
 
 
-![image](https://github.com/jsroads/candy/blob/master/instruction/plant.gif）
+![image](https://github.com/jsroads/candy/blob/master/instruction/plant.gif)
+
+![image](https://github.com/jsroads/candy/blob/master/instruction/plant1.gif)
 
 ![image](https://github.com/jsroads/candy/blob/master/instruction/teacher01.png)
 
-![image](https://github.com/jsroads/candy/blob/master/instruction/teacher01.png）
+![image](https://github.com/jsroads/candy/blob/master/instruction/teacher02.png)
+
+![image](https://github.com/jsroads/candy/blob/master/instruction/teacher03.png)
+
 
 
