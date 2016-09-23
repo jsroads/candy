@@ -42,5 +42,7 @@ candys  move  dispear
 
 ![image](https://github.com/jsroads/candy/blob/master/instruction/003.jpg)
 
+![image](https://github.com/jsroads/candy/blob/master/instruction/004.jpg)
+
 
 
