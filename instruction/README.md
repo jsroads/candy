@@ -16,11 +16,11 @@
 
 ![image](https://github.com/jsroads/candy/blob/master/instruction/plant1.gif)
 
-![image](https://github.com/jsroads/candy/blob/master/instruction/teacher01.png)
+![image](https://github.com/jsroads/candy/blob/master/instruction/001.jpg)
 
-![image](https://github.com/jsroads/candy/blob/master/instruction/teacher02.png)
+![image](https://github.com/jsroads/candy/blob/master/instruction/002.jpg)
 
-![image](https://github.com/jsroads/candy/blob/master/instruction/teacher03.png)
+![image](https://github.com/jsroads/candy/blob/master/instruction/003.jpg)
 
 
 
