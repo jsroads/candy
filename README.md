@@ -44,5 +44,6 @@ candys  move  dispear
 
 ![image](https://github.com/jsroads/candy/blob/master/instruction/004.jpg)
 
-
+#更多玩法
+请参考 https://github.com/jsroads/candy/tree/master/instruction 里面的gif 图片
 
