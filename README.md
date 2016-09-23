@@ -35,6 +35,6 @@ candys  move  dispear
 4.路径只要大于1，就开始计算伤害，有同学问我，我和周围的糖果换了之后，换回来了，为啥对方打我了，这个是计算的规则，当然你可以修改源码，验证一下，想怎么设计，自己动手吧！
 
 
-http://forum.cocos.com/uploads/default/original/2X/7/713dbba0300c82c2caf15a04d63a46f0b2377b41.gif
+![image](https://github.com/jsroads/candy/blob/master/instruction/plant.gif）
 
 
